@@ -14,4 +14,165 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1000.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1158.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1406.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1463.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1918.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1924.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2438.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2439.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2440.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2442.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2444.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2445.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2446.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2522.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2557.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2558.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2742.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2743.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2747.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8393.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9012.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9465.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10430.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10799.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10808.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10809.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10818.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10820.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10824.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10828.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10845.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10866.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10869.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10950.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10951.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10952.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10953.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10998.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11004.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11021.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11022.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11655.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11718.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11719.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11720.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11721.cc">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
