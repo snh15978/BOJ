@@ -1,25 +1,29 @@
-#include <iostream>
-#include <queue>
-#include <algorithm>
+#include <cstdio>
+
 using namespace std;
 
 int main()
 {
-	int N, cnt = 0;
-	int arr[6] = { 500,100,50,10,5,1 };
-	cin >> N;
-	N = 1000 - N;
+	int N, A, money, cnt = 0;
+	int arr[10];
 
-	for (int i = 0; i < 6; i++)
+	scanf("%d %d", &N, &money);
+
+	for (int i = 0; i < N; i++)
 	{
-		if (arr[i] <= N)
+		scanf("%d", &A);
+		arr[i] = A;
+	}
+
+	for (int i = N - 1; i >= 0; i--)
+	{
+		if (arr[i] <= money)
 		{
-			cnt += N / arr[i];
-			N %= arr[i];
+			cnt += money / arr[i];
+			money %= arr[i];
 		}
 	}
 
-	cout << cnt << endl;
-
+	printf("%d", cnt);
 	return 0;
 }
